@@ -1,0 +1,22 @@
+{
+  "name": "macro-pagos-muni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skualsito/macro-pagos-muni.git"
+  },
+  "author": "Juan Almada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skualsito/macro-pagos-muni/issues"
+  },
+  "homepage": "https://github.com/skualsito/macro-pagos-muni#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
